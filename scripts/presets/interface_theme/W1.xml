@@ -984,7 +984,7 @@
         frame_node="#404040ff"
         matte_node="#973c3c"
         distor_node="#4c9797"
-        noodle_curving="1"
+        noodle_curving="4"
         grid_levels="3"
         dash_alpha="0.5"
         input_node="#ff3371"
