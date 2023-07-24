@@ -24,11 +24,11 @@
         gizmo_b="#a33535"
         icon_scene="#f2f2f2ff"
         icon_collection="#f2f2f2ff"
-        icon_object="#e0a060ff"
-        icon_object_data="#00d4a3ff"
-        icon_modifier="#50a0ffff"
-        icon_shading="#e071d4ff"
-        icon_folder="#e3c16eff"
+        icon_object="#ffffffff"
+        icon_object_data="#ffffffff"
+        icon_modifier="#ffffffff"
+        icon_shading="#ffffffff"
+        icon_folder="#ffffffff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -1045,7 +1045,7 @@
       <ThemeOutliner
         match="#404040"
         selected_highlight="#65132d"
-        active="#505050"
+        active="#ff3371"
         selected_object="#ffffff"
         active_object="#ffffff"
         edited_object="#00000080"
