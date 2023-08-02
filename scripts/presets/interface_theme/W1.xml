@@ -28,7 +28,7 @@
         icon_object_data="#ffffffff"
         icon_modifier="#ffffffff"
         icon_shading="#ffffffff"
-        icon_folder="#ffffffff"
+        icon_folder="#ffc978ff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -65,7 +65,7 @@
           <ThemeWidgetColors
             outline="#2a2a2a"
             inner="#292929ff"
-            inner_sel="#ea005eff"
+            inner_sel="#181818ff"
             item="#ffffffff"
             text="#bfbfbf"
             text_sel="#181818"
@@ -95,7 +95,7 @@
           <ThemeWidgetColors
             outline="#4d4d4d"
             inner="#4d4d4dff"
-            inner_sel="#ea005eff"
+            inner_sel="#646464ff"
             item="#262626ff"
             text="#bfbfbf"
             text_sel="#ffffff"
@@ -303,9 +303,9 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            outline="#65132d"
+            outline="#ea005e"
             inner="#36363600"
-            inner_sel="#ea005eff"
+            inner_sel="#646464ff"
             item="#323232ff"
             text="#999999"
             text_sel="#ffffff"
@@ -350,11 +350,11 @@
         <wcol_tab>
           <ThemeWidgetColors
             outline="#262626"
-            inner="#404040ff"
-            inner_sel="#ea005eff"
+            inner="#262626ff"
+            inner_sel="#404040ff"
             item="#404040ff"
             text="#bfbfbf"
-            text_sel="#181818"
+            text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -1044,8 +1044,8 @@
     <outliner>
       <ThemeOutliner
         match="#404040"
-        selected_highlight="#6a002a"
-        active="#ea005e"
+        selected_highlight="#646464"
+        active="#727272"
         selected_object="#ffffff"
         active_object="#ffffff"
         edited_object="#00000080"
