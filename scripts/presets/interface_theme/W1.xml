@@ -22,12 +22,12 @@
         gizmo_view_align="#ffffff"
         gizmo_a="#4da84d"
         gizmo_b="#a33535"
-        icon_scene="#f2f2f2ff"
+        icon_scene="#bbbbbbff"
         icon_collection="#f2f2f2ff"
-        icon_object="#ffffffff"
-        icon_object_data="#ffffffff"
+        icon_object="#bbbbbbff"
+        icon_object_data="#42ff84ff"
         icon_modifier="#ffffffff"
-        icon_shading="#ffffffff"
+        icon_shading="#ff4988ff"
         icon_folder="#ffc978ff"
         icon_border_intensity="0"
         >
@@ -63,9 +63,9 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#2a2a2a"
-            inner="#292929ff"
-            inner_sel="#181818ff"
+            outline="#181818"
+            inner="#181818ff"
+            inner_sel="#ea005eff"
             item="#ffffffff"
             text="#bfbfbf"
             text_sel="#181818"
@@ -446,7 +446,7 @@
             title="#000000"
             text="#e4e4e4"
             text_hi="#ffffff"
-            header="#33333300"
+            header="#24242400"
             header_text="#e4e4e4"
             header_text_hi="#ffffff"
             button="#40404000"
@@ -558,7 +558,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#ea005e"
+        selected_file="#727272"
         row_alternate="#ffffff06"
         >
         <space>
