@@ -5,7 +5,13 @@ personal settings and configs for the free (and amazing) addon MACHIN3Tools.
 
 Theme based on the official "Minimal Dark" theme.
 
-![w1_blender_dark_theme](https://raw.githubusercontent.com/wedge-one/blender/main/w1_blender_dark_theme.png)
+![W1_blender_dark_theme](https://github.com/wedge-one/blender/blob/main/W1_blender_dark_theme_.png)
+
+![W1X_blender_dark_theme](https://github.com/wedge-one/blender/blob/main/W1X_blender_dark_theme_.png)
+
+![W1Y_blender_dark_theme](https://github.com/wedge-one/blender/blob/main/W1Y_blender_dark_theme_.png)
+
+
 
 ## Install path:
 %appdata%\Blender Foundation\Blender\3.x
