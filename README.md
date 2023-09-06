@@ -9,8 +9,6 @@ Theme based on the official "Minimal Dark" theme.
 
 ![W1X_blender_dark_theme](https://github.com/wedge-one/blender/blob/main/W1X_blender_dark_theme_.png)
 
-![W1Y_blender_dark_theme](https://github.com/wedge-one/blender/blob/main/W1Y_blender_dark_theme_.png)
-
 
 
 ## Install path:
