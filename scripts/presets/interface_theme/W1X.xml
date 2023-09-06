@@ -26,7 +26,7 @@
         icon_collection="#f2f2f2ff"
         icon_object="#bbbbbbff"
         icon_object_data="#42ff84ff"
-        icon_modifier="#ffffffff"
+        icon_modifier="#5fbfffff"
         icon_shading="#ff4988ff"
         icon_folder="#ffc978ff"
         icon_border_intensity="0"
@@ -38,7 +38,7 @@
             inner_sel="#ff4343ff"
             item="#262626ff"
             text="#bfbfbf"
-            text_sel="#181818"
+            text_sel="#eeeeee"
             show_shaded="TRUE"
             shadetop="0"
             shadedown="0"
@@ -53,7 +53,7 @@
             inner_sel="#ff4343ff"
             item="#ffffffff"
             text="#bfbfbf"
-            text_sel="#181818"
+            text_sel="#eeeeee"
             show_shaded="FALSE"
             shadetop="5"
             shadedown="0"
@@ -63,8 +63,8 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#181818"
-            inner="#181818ff"
+            outline="#202020"
+            inner="#202020ff"
             inner_sel="#ff4343ff"
             item="#ffffffff"
             text="#bfbfbf"
@@ -83,7 +83,7 @@
             inner_sel="#ff4343ff"
             item="#ffffffff"
             text="#bfbfbf"
-            text_sel="#181818"
+            text_sel="#eeeeee"
             show_shaded="FALSE"
             shadetop="5"
             shadedown="0"
@@ -168,8 +168,8 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
-            outline="#333333"
-            inner="#2e2e2eff"
+            outline="#4d4d4d"
+            inner="#4d4d4dff"
             inner_sel="#ff4343ff"
             item="#ffffffff"
             text="#f2f2f2"
@@ -188,7 +188,7 @@
             inner_sel="#ff4343ff"
             item="#bfbfbfff"
             text="#bfbfbf"
-            text_sel="#181818"
+            text_sel="#eeeeee"
             show_shaded="FALSE"
             shadetop="5"
             shadedown="5"
@@ -203,7 +203,7 @@
             inner_sel="#ff4343ff"
             item="#ffffffff"
             text="#bfbfbf"
-            text_sel="#181818"
+            text_sel="#eeeeee"
             show_shaded="FALSE"
             shadetop="25"
             shadedown="0"
@@ -263,7 +263,7 @@
             inner_sel="#ff4343ff"
             item="#ffffffff"
             text="#bfbfbf"
-            text_sel="#181818"
+            text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="20"
@@ -910,7 +910,7 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#33333300"
+                header="#383838ff"
                 back="#383838ff"
                 sub_back="#333333ff"
                 >

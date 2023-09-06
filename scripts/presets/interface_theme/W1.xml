@@ -63,8 +63,8 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#181818"
-            inner="#181818ff"
+            outline="#202020"
+            inner="#202020ff"
             inner_sel="#ea005eff"
             item="#ffffffff"
             text="#bfbfbf"
@@ -910,7 +910,7 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#33333300"
+                header="#383838ff"
                 back="#383838ff"
                 sub_back="#333333ff"
                 >
