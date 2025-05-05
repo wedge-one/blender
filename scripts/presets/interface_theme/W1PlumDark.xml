@@ -446,7 +446,7 @@
             button_text_hi="#ffffff"
             navigation_bar="#1d1d1dff"
             execution_buts="#303030ff"
-            tab_active="#333333"
+            tab_active="#424242"
             tab_inactive="#141414"
             tab_back="#141414ff"
             tab_outline="#141414ff"
@@ -461,8 +461,8 @@
             </gradients>
             <panelcolors>
               <ThemePanelColors
-                header="#282828ff"
-                back="#282828ff"
+                header="#424242ff"
+                back="#424242ff"
                 sub_back="#0000001f"
                 >
               </ThemePanelColors>
